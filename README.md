@@ -7,4 +7,13 @@ Steam re-design as a challenge for a company based in Utrecht.
 
 ## Other tools used
 
-Figma,VSCODE,LIVESERVER,Webflow for media queries.
+* Figma
+* VS CODE
+* Google
+* Webflow for media queries
+
+# Project Link
+
+You can find and see the finished project here below :
+
+https://direct-impact-test.netlify.app/
